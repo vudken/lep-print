@@ -1,0 +1,203 @@
+Aizkraukles iela 30
+Aizkraukles iela 34
+Apes iela 12 
+Apes iela 12 k-1 
+Apes iela 1D 
+Brīvības gatve 229
+Apes iela 5
+Apes iela 5A
+Bērzpils iela 5
+Bērzpils iela 59 
+Ropažu iela 122 k-10
+Bērzpils iela 65
+Bērzpils iela 67
+Bērzpils iela 71
+Bērzpils iela 73
+Bērzpils iela 75
+Biķernieku iela 10 k-1
+Biķernieku iela 10 k-2
+Biķernieku iela 105
+Biķernieku iela 107
+Biķernieku iela 109
+Biķernieku iela 109A
+Biķernieku iela 10B
+Biķernieku iela 111
+Biķernieku iela 12A
+Biķernieku iela 12B 
+Biķernieku iela 28
+Biķernieku iela 29
+Biķernieku iela 31
+Biķernieku iela 35A
+Biķernieku iela 41
+Biķernieku iela 6
+Biķernieku iela 71
+Biķernieku iela 79
+Brīvības gatve 215A
+Brīvības gatve 215B
+Brīvības gatve 225A
+Brīvības gatve 227
+Brīvības gatve 228
+Brīvības gatve 229 
+Brīvības gatve 231
+Brīvības iela 231
+Brīvības gatve 231 k-1 
+Brīvības iela 231 k-1 
+Brīvības gatve 237
+Brīvības gatve 239
+Brīvības gatve 241
+Brīvības gatve 249
+Brīvības gatve 278
+Brīvības gatve 281
+Brīvības gatve 282 
+Brīvības gatve 292
+Brīvības gatve 300
+Brīvības gatve 318
+Brīvības gatve 326
+Brīvības gatve 334
+Brīvības gatve 336
+Brīvības gatve 342
+Brīvības gatve 354
+Brīvības gatve 356 
+Brīvības gatve 356A
+Brīvības gatve 358
+//////////////////
+Brīvības iela 215A
+Brīvības iela 215B
+Brīvības iela 225A
+Brīvības iela 227
+Brīvības iela 228
+Brīvības iela 229 
+Brīvības iela 231
+Brīvības iela 231 
+Brīvības iela 237
+Brīvības iela 239
+Brīvības iela 241
+Brīvības iela 249
+Brīvības iela 278
+Brīvības iela 281
+Brīvības iela 282 
+Brīvības iela 292
+Brīvības iela 300
+Brīvības iela 318
+Brīvības iela 326
+Brīvības iela 334
+Brīvības iela 336
+Brīvības iela 342
+Brīvības iela 354
+Brīvības iela 356 
+Brīvības iela 356A
+Brīvības iela 358
+//////////////////
+Caunes iela 10 k-1
+Caunes iela 10 k-2
+Caunes iela 10 k-3
+Caunes iela 17
+Caunes iela 8A
+Čiekurkalna 1. līnija 1
+Čiekurkalna 1. līnija 72A
+Čiekurkalna 2. līnija 26
+Čiekurkalna 2. šķērslīnija 7
+Čiekurkalna 4. šķērslīnija 17
+Čiekurkalna 7. šķērslīnija 12A
+Dzērbenes iela 5
+Ezermalas iela 19
+Ezermalas iela 25
+Ezermalas iela 27
+Gaujas iela 19
+Gaujas iela 32 
+Ķīšezera iela 11A
+Gaujas iela 36A
+Gaujas iela 36B
+Gustava Zemgala gatve 16
+Gustava Zemgala iela 16
+Ieriķu iela 11
+Ieriķu iela 13
+Ieriķu iela 19
+Ieriķu iela 23
+Ieriķu iela 25 
+Ieriķu iela 27
+Ieriķu iela 41
+Ieriķu iela 75
+Ieriķu iela 77
+Ieriķu iela 9
+Kastrānes iela 1 k-1
+Kastrānes iela 2
+Kastrānes iela 2A
+Ķeguma iela 52 k-2
+Ķeguma iela 54
+Ķīšezera iela 13 k-2
+Ķīšezera iela 17
+Krīvu iela 5
+Kuršu iela 25A
+Laimdotas iela 45
+Laimdotas iela 57
+Launkalnes iela 12
+Mirdzas Ķempes iela 11
+Mirdzas Ķempes iela 3
+Mirdzas Ķempes iela 5
+Mirdzas Ķempes iela 7
+Mirdzas Ķempes iela 9
+Palmu iela 14
+Palmu iela 18
+Palmu iela 20
+Raunas iela 19 k-1
+Raunas iela 19 k-2
+Raunas iela 20A
+Raunas iela 22A
+Raunas iela 30A
+Raunas iela 36
+Raunas iela 58 k-1
+Raunas iela 58 k-2
+Raunas iela 58 k-3
+Raunas iela 58 k-4
+Raunas iela 58 k-5
+Raunas iela 58 k-7
+Raunas iela 64A
+Ropažu iela 122 k-1
+Ropažu iela 122 k-5
+Ropažu iela 130
+Ropažu iela 138
+Ropažu iela 21
+Ropažu iela 23
+Ropažu iela 26
+Ropažu iela 41
+Ropažu iela 45
+Ropažu iela 46
+Ropažu iela 50
+Ropažu iela 60
+Ropažu iela 60B
+Ropažu iela 78
+Ropažu iela 92
+Rusova iela 10
+Rusova iela 2
+Rusova iela 26
+Rusova iela 2A
+Rusova iela 4
+Rusova iela 6A
+Skultes iela 2
+Stāmerienas iela 2
+Stāmerienas iela 2 k-1
+Stūrīša iela 27
+Tālivalža iela 20 k-1
+Tālivalža iela 20 k-2
+Ūnijas iela 28 
+Ūnijas iela 30
+Vairoga iela 44
+Vidrižu iela 1C 
+Brīvības gatve 237 k-2
+Brīvības iela 237 k-2
+Vidrižu iela 6A 
+Brīvības gatve 237 k-3
+Brīvības iela 237 k-3
+Vijciema iela 16
+Viskaļu iela 18
+Zālīša iela 1
+Zālīša iela 3
+Zālīša iela 5
+Zemgaļu iela 23
+Zemgaļu iela 23A
+Zemgaļu iela 7
+Apes iela 1 D (vecā Brīvības gatve 229 k-2)
+Apes iela 1 D 
+Brīvības gatve 229 k-2
+Ķeguma iela 52-k2

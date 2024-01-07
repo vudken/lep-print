@@ -1,0 +1,243 @@
+Augusta Deglava iela 51
+Augusta Deglava iela 55
+Augusta Deglava iela 57
+Braslas iela 23
+Dzelzavas iela 38
+Dzelzavas iela 40
+Dzelzavas iela 42
+Dzelzavas iela 76
+Dzelzavas iela 76 k-1
+Dzelzavas iela 76 k-4
+Dzelzavas iela 76 k-3
+Dzelzavas iela 76 k-2
+Ieriķu iela 2A
+Ieriķu iela 2B
+Kalsnavas iela 1
+Kalsnavas iela 2C (Mārcienas iela 9)
+Kurmju iela 7 k-1
+Kurmju iela 7 k-2
+Kurmju iela 7 k-3
+Kurmju iela 7 k-4
+Madonas iela 19 (1)
+Madonas iela 19 (2)
+Madonas iela 19 (3)
+Madonas iela 21
+Madonas iela 23
+Mārcienas iela 1
+Mārcienas iela 6
+Mārcienas iela 7,(PURVCIEMA IELA 15)
+Nīcgales iela 11
+Nīcgales iela 12 (1)
+Nīcgales iela 12 (2)
+Nīcgales iela 13
+Nīcgales iela 14
+Nīcgales iela 16
+Nīcgales iela 17 (1)
+Nīcgales iela 17 (2)
+Nīcgales iela 18
+Nīcgales iela 19
+Nīcgales iela 20
+Nīcgales iela 21
+Nīcgales iela 23
+Nīcgales iela 25
+Nīcgales iela 27
+Nīcgales iela 31
+Nīcgales iela 38 (1)
+Nīcgales iela 38 (2)
+Nīcgales iela 4 (1)
+Nīcgales iela 4 (2)
+Nīcgales iela 4 (3)
+Nīcgales iela 4 (4)
+Nīcgales iela 6
+Nīcgales iela 8
+Nīcgales iela 9
+Purvciema iela 13
+Purvciema iela 15          (Mārcienas 7)
+Purvciema iela 20
+Purvciema iela 22
+Purvciema iela 26
+Purvciema iela 44 k-1
+Purvciema iela 44 k-2
+Purvciema iela 46
+Purvciema iela 57 (1)
+Purvciema iela 57 (2)
+Pūces iela 27 k-1
+Pūces iela 27 k-2
+Pūces iela 27 k-4
+Pūces iela 27 k-5
+Pūces iela 27 k-6
+Pūces iela 51 (1)         (Dzelzavas 76 k-5)
+Pūces iela 51 (2)         (Dzelzavas 76 k-5)
+Saktas iela 4
+Saktas iela 8
+Staiceles iela 1 k-1 (1)
+Staiceles iela 1 k-1 (2)
+Staiceles iela 1 k-2 (1)
+Staiceles iela 1 k-2 (2)
+Staiceles iela 1 k-3
+Staiceles iela 11
+Staiceles iela 13
+Staiceles iela 15 (1)
+Staiceles iela 15 (2)
+Staiceles iela 15 (3)
+Staiceles iela 17
+Staiceles iela 21
+Staiceles iela 2B               Staiceles iela 32
+Staiceles iela 9
+Stirnu iela 5
+Stirnu iela 12
+Stirnu iela 13B
+Stirnu iela 13C
+Stirnu iela 13D
+Stirnu iela 21
+Stirnu iela 22                    (Stirnu 16)
+Stirnu iela 5 (1)
+Stirnu iela 5 (2)
+Stirnu iela 7
+Vējavas iela 12
+Viršu iela 1 (1)
+Viršu iela 1 (2)
+Viršu iela 4
+Viršu iela 6
+Ilūkstes iela 109 k-3
+Ilūkstes iela 107 k-3
+Ilūkstes iela 109 k-1
+Ilūkstes iela 109 k-1
+Ilūkstes iela 109
+Ilūkstes iela 107
+Ilūkstes iela 107 k-1
+Ilūkstes iela 105
+Ilūkstes iela 103 k-3
+Ilūkstes iela 103 k-2
+Ilūkstes iela 103 k-1
+Ilūkstes iela 101
+Ilūkstes iela 101
+Ilūkstes iela 101 k-1
+Detlava Brantkalna iela 3
+Detlava Brantkalna iela 13
+Augusta Deglava iela 51
+Augusta Deglava iela 55
+Augusta Deglava iela 57
+Braslas iela 23
+Detlava Brantkalna iela 13 (1)
+Detlava Brantkalna iela 13 (2)
+Detlava Brantkalna iela 3 (1)
+Detlava Brantkalna iela 3 (2)
+Dzelzavas iela 38
+Dzelzavas iela 40
+Dzelzavas iela 42
+Dzelzavas iela 76 (1)
+Dzelzavas iela 76 (2)
+Dzelzavas iela 76 k-1
+Dzelzavas iela 76 k-2
+Dzelzavas iela 76 k-3
+Dzelzavas iela 76 k-4
+Dzelzavas iela 82
+Ieriķu iela 2A
+Ieriķu iela 2B
+Ilūkstes iela 101 (1)
+Ilūkstes iela 101 (2)
+Ilūkstes iela 101 (3)
+Ilūkstes iela 101 k-1(1)
+Ilūkstes iela 101 k-1(2)
+Ilūkstes iela 101 k-2
+Ilūkstes iela 103 k-1 (1)
+Ilūkstes iela 103 k-1 (2)
+Ilūkstes iela 103 k-2 (1)
+Ilūkstes iela 103 k-2 (2)
+Ilūkstes iela 103 k-3 (1)
+Ilūkstes iela 103 k-3 (2)
+Ilūkstes iela 105
+Ilūkstes iela 107
+Ilūkstes iela 107 k-1
+Ilūkstes iela 107 k-2
+Ilūkstes iela 107 k-3
+Ilūkstes iela 109
+Ilūkstes iela 109 k-1
+Ilūkstes iela 109 k-3
+Kalsnavas iela 1
+Kalsnavas iela 2C (Mārcienas iela 9)
+Kurmju iela 7 k-1
+Kurmju iela 7 k-2
+Kurmju iela 7 k-3
+Kurmju iela 7 k-4
+Madonas iela 19 (1)
+Madonas iela 19 (2)
+Madonas iela 19 (3)
+Madonas iela 21
+Madonas iela 23
+Mārcienas iela 1
+Mārcienas iela 6
+Nīcgales iela 11
+Nīcgales iela 12 (1)
+Nīcgales iela 12 (2)
+Nīcgales iela 13
+Nīcgales iela 14
+Nīcgales iela 16
+Nīcgales iela 17 (1)
+Nīcgales iela 17 (2)
+Nīcgales iela 18
+Nīcgales iela 19
+Nīcgales iela 20
+Nīcgales iela 21
+Nīcgales iela 23
+Nīcgales iela 25
+Nīcgales iela 27
+Nīcgales iela 31
+Nīcgales iela 38 (1)
+Nīcgales iela 38 (2)
+Nīcgales iela 4 (1)
+Nīcgales iela 4 (2)
+Nīcgales iela 4 (3)
+Nīcgales iela 4 (4)
+Nīcgales iela 6
+Nīcgales iela 8
+Nīcgales iela 9
+Purvciema iela 13
+Purvciema iela 15          (Mārcienas 7)
+Purvciema iela 20
+Purvciema iela 22
+Purvciema iela 26
+Purvciema iela 44 k-1
+Purvciema iela 44 k-2
+Purvciema iela 46
+Purvciema iela 57 (1)
+Purvciema iela 57 (2)
+Pūces iela 27 k-1
+Pūces iela 27 k-2
+Pūces iela 27 k-4
+Pūces iela 27 k-5
+Pūces iela 27 k-6
+Pūces iela 51 (1)         (Dzelzavas 76 k-5)
+Pūces iela 51 (2)         (Dzelzavas 76 k-5)
+Saktas iela 4
+Saktas iela 8
+Staiceles iela 1 k-1 (1)
+Staiceles iela 1 k-1 (2)
+Staiceles iela 1 k-2 (1)
+Staiceles iela 1 k-2 (2)
+Staiceles iela 1 k-3
+Staiceles iela 11
+Staiceles iela 13
+Staiceles iela 15 (1)
+Staiceles iela 15 (2)
+Staiceles iela 15 (3)
+Staiceles iela 17
+Staiceles iela 21
+Staiceles iela 2B               Staiceles iela 32
+Staiceles iela 9
+Stirnu iela 12
+Stirnu iela 13B
+Stirnu iela 13C
+Stirnu iela 13D
+Stirnu iela 21
+Stirnu iela 22                    (Stirnu 16)
+Stirnu iela 5 (1)
+Stirnu iela 5 (2)
+Stirnu iela 7
+Vējavas iela 12
+Viršu iela 1 (1)
+Viršu iela 1 (2)
+Viršu iela 4
+Viršu iela 6
+

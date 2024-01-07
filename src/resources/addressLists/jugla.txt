@@ -1,0 +1,131 @@
+Alsupes iela 9
+Auduma iela 31
+Auduma iela 33
+Auduma iela 35
+Baltezera iela 1
+Baltezera iela 1 k-1
+Baltezera iela 10A
+Baltezera iela 12A
+Baltezera iela 2
+Baltezera iela 4
+Baltezera iela 5
+Baltezera iela 7
+Baltezera iela 8
+Brīvības gatve 349
+Brīvības gatve 353
+Brīvības gatve 355
+Brīvības gatve 357
+Brīvības gatve 359
+Brīvības gatve 361
+Brīvības gatve 363
+Brīvības gatve 365
+Brīvības gatve 367
+Brīvības gatve 371
+Brīvības gatve 373
+Brīvības gatve 388
+Brīvības gatve 391 k-1
+Brīvības gatve 391/1
+Brīvības gatve 391 k-2
+Brīvības gatve 391/2
+Brīvības gatve 395
+Brīvības gatve 397
+Brīvības gatve 398
+Brīvības gatve 399
+Brīvības gatve 405
+Brīvības gatve 405 k-1
+Brīvības gatve 405/1
+Brīvības gatve 407
+Brīvības gatve 411
+Brīvības gatve 412 k-2
+Brīvības gatve 412/2
+Brīvības gatve 418 
+Brīvības gatve 430
+////////////////////
+Brīvības iela 349
+Brīvības iela 353
+Brīvības iela 355
+Brīvības iela 357
+Brīvības iela 359
+Brīvības iela 361
+Brīvības iela 363
+Brīvības iela 365
+Brīvības iela 367
+Brīvības iela 371
+Brīvības iela 373
+Brīvības iela 388
+Brīvības iela 391 k-1
+Brīvības iela 391/1
+Brīvības iela 391 k-2
+Brīvības iela 391/2
+Brīvības iela 395
+Brīvības iela 397
+Brīvības iela 398
+Brīvības iela 399
+Brīvības iela 405
+Brīvības iela 405 k-1
+Brīvības iela 405/1
+Brīvības iela 407
+Brīvības iela 411
+Brīvības iela 412 k-2
+Brīvības iela 412/2
+Brīvības iela 418 
+Brīvības iela 430
+/////////////////
+Juglas iela 1
+Juglas iela 3
+Juglas iela 5
+Juglas iela 5 k-1
+Juglas iela 5/1
+Mārkalnes iela 2 k-5
+Mārkalnes iela 2/5
+Meiju iela 2
+Salamandras iela 3
+Silciema iela 11
+Silciema iela 13
+Silciema iela 13 k-1
+Silciema iela 13/1
+Silciema iela 13 k-2
+Silciema iela 13/2
+Silciema iela 13 k-3
+Silciema iela 13/3
+Silciema iela 15 k-1
+Silciema iela 15/1
+Silciema iela 15 k-2
+Silciema iela 15/2
+Silciema iela 15 k-3
+Silciema iela 15/3
+Silciema iela 15 k-4
+Silciema iela 15/4
+Silciema iela 15 k-5
+Silciema iela 15/5
+Silciema iela 5
+Silciema iela 7
+Silciema iela 9
+Tirzas iela 1A 
+Brīvības gatve 389
+Brīvības iela 389
+Tirzas iela 3 k-1
+Tirzas iela 3 k-2
+Tirzas iela 3 k-3
+Tirzas iela 3 k-4
+Tirzas iela 3 k-5
+Tirzas iela 3 k-6
+Vangažu iela 12
+Vangažu iela 19 
+VANGAŽU IELA  25
+Brīvības gatve 412 k-1
+Brīvības iela 412/1
+Vangažu iela 25 
+Brīvības gatve 414 k-3
+Brīvības iela 414/3
+Vangažu iela 26
+Vangažu iela 27
+Vangažu iela 28
+Vangažu iela 32
+Vangažu iela 35 
+Brīvības gatve 422 k-1
+Brīvības iela 422/1
+Vangažu iela 37 
+Brīvības gatve 426
+Brīvības iela 426
+

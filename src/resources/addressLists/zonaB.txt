@@ -1,0 +1,177 @@
+Ainavas iela 2
+Andromedas gatve 5
+Dzelzavas iela 11
+Dzelzavas iela 13
+Dzelzavas iela 15
+Dzelzavas iela 19 k-1
+Dzelzavas iela 19 k-2
+Dzelzavas iela 23
+Dzelzavas iela 27
+Dzelzavas iela 29
+Dzelzavas iela 31
+Dzelzavas iela 33
+Dzelzavas iela 53
+Dzelzavas iela 55
+Dzelzavas iela 57
+Dzelzavas iela 63
+Dzelzavas iela 65
+Dzelzavas iela 71
+Dzelzavas iela 73
+Dzelzavas iela 75
+Dzelzavas iela 77
+Dzelzavas iela 79
+Dzelzavas iela 81
+Džohara Dudajeva gatve 1
+Džohara Dudajeva gatve 3
+Džohara Dudajeva gatve 9
+Džohara Dudajeva gatve 11
+Džohara Dudajeva gatve 12
+Džohara Dudajeva gatve 13
+Džohara Dudajeva gatve 2
+Džohara Dudajeva gatve 4
+Džohara Dudajeva gatve 5
+Džohara Dudajeva gatve 6
+Džohara Dudajeva gatve 8
+Gustava Zemgala gatve 20
+Ieriķu iela 9A
+Ieriķu iela 9B
+Ieriķu iela 12
+Ieriķu iela 14
+Ieriķu iela 30
+Ieriķu iela 32
+Ieriķu iela 48
+Ieriķu iela 58
+Ieriķu iela 60
+Ķeguma iela 43
+Ķeguma iela 45
+Ķeguma iela 60
+Pīļu iela 4
+Stirnu iela 57A
+Stirnu iela 33
+Stirnu iela 35
+Stirnu iela 35A
+Stirnu iela 36
+Stirnu iela 37
+Stirnu iela 38
+Stirnu iela 39
+Stirnu iela 41
+Stirnu iela 43
+Stirnu iela 45
+Stirnu iela 47
+Stirnu iela 48
+Stirnu iela 51
+Stirnu iela 53
+Stirnu iela 55
+Stirnu iela 57
+Stirnu iela 57A
+PĪĻU IELA 4
+Stirnu iela 61
+Ūnijas iela 64
+Ūnijas iela 70
+Ūnijas iela 71
+Ūnijas iela 72
+Vaidavas iela 13
+Vaidavas iela 15
+Vaidavas iela 17
+Vaidavas iela 2 k-2
+Vaidavas iela 2 k-3
+Vaidavas iela 2 k-4
+Vaidavas iela 2 k-5
+Vaidavas iela 9
+Žagatu iela 20
+Žagatu iela 20A
+Žagatu iela 22
+Žagatu iela 24
+Lielvārdes iela 107
+Lielvārdes iela 109
+Andromedas gatve 1
+Andromedas gatve 2
+Andromedas gatve 4
+Andromedas gatve 7
+======================
+Ainavas iela 2
+Andromedas gatve 1
+Andromedas gatve 2
+Andromedas gatve 4
+Andromedas gatve 5
+Andromedas gatve 7
+Dzelzavas iela 11
+Dzelzavas iela 13
+Dzelzavas iela 15
+Dzelzavas iela 19 k-1
+Dzelzavas iela 19 k-2
+Dzelzavas iela 23
+Dzelzavas iela 27
+Dzelzavas iela 29
+Dzelzavas iela 31
+Dzelzavas iela 33
+Dzelzavas iela 53
+Dzelzavas iela 55
+Dzelzavas iela 57
+Dzelzavas iela 63
+Dzelzavas iela 65
+Dzelzavas iela 71
+Dzelzavas iela 73
+Dzelzavas iela 75
+Dzelzavas iela 77
+Dzelzavas iela 79
+Dzelzavas iela 81
+Džohara Dudajeva gatve 1
+Džohara Dudajeva gatve 11
+Džohara Dudajeva gatve 12
+Džohara Dudajeva gatve 13
+Džohara Dudajeva gatve 2
+Džohara Dudajeva gatve 3
+Džohara Dudajeva gatve 4
+Džohara Dudajeva gatve 5
+Džohara Dudajeva gatve 6
+Džohara Dudajeva gatve 8
+Džohara Dudajeva gatve 9
+Gustava Zemgala gatve 20
+Ieriķu iela 12
+Ieriķu iela 14
+Ieriķu iela 26
+Ieriķu iela 30
+Ieriķu iela 32
+Ieriķu iela 32 k-1
+Ieriķu iela 32 k-2
+Ieriķu iela 48
+Ieriķu iela 58
+Ieriķu iela 60
+Ieriķu iela 66
+Ķeguma iela 43
+Ķeguma iela 45
+Ķeguma iela 60
+Lielvārdes iela 107
+Stirnu iela 33
+Stirnu iela 35
+Stirnu iela 35A
+Stirnu iela 36
+Stirnu iela 37
+Stirnu iela 39
+Stirnu iela 41
+Stirnu iela 43
+Stirnu iela 45
+Stirnu iela 47
+Stirnu iela 48
+Stirnu iela 51
+Stirnu iela 53
+Stirnu iela 55
+Stirnu iela 57
+Stirnu iela 61
+Ūnijas iela 64
+Ūnijas iela 70
+Ūnijas iela 71
+Ūnijas iela 72
+Vaidavas iela 13
+Vaidavas iela 15
+Vaidavas iela 17
+Vaidavas iela 2 k-2
+Vaidavas iela 2 k-3
+Vaidavas iela 2 k-4
+Vaidavas iela 2 k-5
+Vaidavas iela 9
+Žagatu iela 20
+Žagatu iela 20A
+Žagatu iela 22
+Žagatu iela 24

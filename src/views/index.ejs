@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Lep Uzdevumi</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"> -->
+  <link link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+  <div class="wrapper d-flex align-items-stretch">
+    <nav id="sidebar">
+      <div class="p-4 pt-5">
+        <a href="/" class="img logo rounded-circle mb-5" style="background-image: url(images/logo.jpg);"></a>
+        <ul class="list-unstyled components mb-5">
+          <li>
+            <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Brigādes (RNP
+              apkope)</a>
+            <ul class="collapse list-unstyled" id="homeSubmenu">
+              <li>
+                <a href="privati">Brekši</a>
+              </li>
+              <li>
+                <a href="jugla">Jugla</a>
+              </li>
+              <li>
+                <a href="mezciems">Mežciems</a>
+              </li>
+              <li>
+                <a href="zonaA">Purvciems A</a>
+              </li>
+              <li>
+                <a href="zonaB">Purvciems B</a>
+              </li>
+              <li>
+                <a href="sarka">Sarkandaugava</a>
+              </li>
+              <li>
+                <a href="teikaPurv">Teika-Purvciems</a>
+              </li>
+              <li>
+                <a href="vecmil">Vecmilgravis-Jaunciems</a>
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Citas
+              brigādes</a>
+            <ul class="collapse list-unstyled" id="pageSubmenu">
+              <li>
+                <a href="auto">Automātika</a>
+              </li>
+              <li>
+                <a href="ad">Avārijas dienesta</a>
+              </li>
+              <li>
+                <a href="lb1">LEP brigāde 1</a>
+              </li>
+              <li>
+                <a href="lb2">LEP brigāde 2</a>
+              </li>
+              <li>
+                <a href="lb3">LEP brigāde 3</a>
+              </li>
+              <li>
+                <a href="navPiek">Nav piekļuves</a>
+              </li>
+              <li>
+                <a href="navSask">Nav saskaņots</a>
+              </li>
+              <li>
+                <a href="rm">Remontdarbi</a>
+              </li>
+              <li>
+                <a href="tames">Sagatavošanā tames</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div id="content">
+      <div id="mobile-btns">
+        <button id="print-btn" type="button" class="btn btn-primary">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer"
+            viewBox="0 0 16 16">
+            <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1"></path>
+            <path
+              d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1">
+            </path>
+          </svg>
+        </button>
+        <button type="button" id="sidebarCollapse" class="btn btn-primary">
+          <i class="fa fa-bars"></i>
+          <span class="sr-only">Toggle Menu</span>
+        </button>
+      </div>
+      <table class="table table-bordered border-dark table-hover">
+        <thead id="thead-sticky" class="thead-black">
+          <tr>
+            <th colspan="5" class="table-title">
+              <%= area %> (<%= date %>)
+            </th>
+          </tr>
+          <tr>
+            <th scope="col" style="width: 2%">#</th>
+            <th scope="col" style="width: 16%">Adrese</th>
+            <th scope="col" style="width: 2.5%">Izveidots</th>
+            <th scope="col" style="width: 76.5%">Apraksts</th>
+            <th scope="col" style="width: 3%"><input type="checkbox" checked /></th>
+          </tr>
+        </thead>
+        <thead id="thead-fixed" class="thead-black">
+          <tr>
+            <th colspan="5" class="table-title">
+              <%= area %> (<%= date %>)
+            </th>
+          </tr>
+          <tr>
+            <th scope="col" style="width: 2%">#</th>
+            <th scope="col" style="width: 16%">Adrese</th>
+            <th scope="col" style="width: 2.5%">Izveidots</th>
+            <th scope="col" style="width: 76.5%">Apraksts</th>
+            <th scope="col" style="width: 3%"><input type="checkbox" checked /></th>
+          </tr>
+        </thead>
+        <tbody id="tasks-body">
+          <%- tasks %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script src="https://kit.fontawesome.com/655ce7c6a1.js" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="js/popper.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,160 @@
+Alekša iela 8
+Alekša iela 9
+Allažu iela 1
+Aptiekas iela 13
+Aptiekas iela 14
+Aptiekas iela 6
+Ceļinieku iela 18 
+Tilta iela 11 k-4
+Hāpsalas iela 1 k-2
+Hāpsalas iela 1 k-3
+Lāpstu iela 15
+Limbažu iela 1 k-1
+Limbažu iela 11 
+Sarkandaugavas 26 k-10
+Limbažu iela 2
+Limbažu iela 4 k-1
+Limbažu iela 4 k-2
+Limbažu iela 9 
+Sarkandaugavas 26 k-8
+Ozolu iela 4
+Ozolu iela 5 
+Duntes iela 26 k-2
+Ozolu iela 7 
+Duntes iela 26 k-1
+Patversmes iela 1 k-1
+Patversmes iela 22 k-2
+Patversmes iela 22 k-3
+Patversmes iela 22 k-4
+Patversmes iela 26
+Patversmes iela 3 k-1
+Patversmes iela 5
+Patversmes iela 5 k-1
+Pededzes iela 4
+Sarkandaugavas iela 11
+Sarkandaugavas iela 13
+Sarkandaugavas iela 26 k-1
+Sarkandaugavas iela 26 k-2
+Sarkandaugavas iela 26 k-3
+Sarkandaugavas iela 26 k-4
+Sarkandaugavas iela 26 k-6
+Sarkandaugavas iela 26 k-7
+Sarkandaugavas iela 26 k-9
+Sarkandaugavas iela 3
+Sarkandaugavas iela 31
+Sīmaņa iela 11 k-1
+Sīmaņa iela 11 k-2
+Sīmaņa iela 11 k-3
+Sliežu iela 27 k-1
+Sliežu iela 29 k-3
+Sliežu iela 29 k-4
+Sliežu iela 9A
+Sofijas iela 4
+Sofijas iela 6
+Tilta iela 11 k-1
+Tilta iela 11 k-2
+Tilta iela 11 k-3
+Tilta iela 24
+Tilta iela 24 k-1
+Tilta iela 5 k-1
+Tvaika iela 16
+Viestura prospekts 11
+Viestura prospekts 13
+Viestura prospekts 15
+Viestura prospekts 17
+Viestura prospekts 19
+Viestura prospekts 23
+Viestura prospekts 25
+Viestura prospekts 31
+Viestura prospekts 33
+Viestura prospekts 33 k-1
+Viestura prospekts 35
+Viestura prospekts 37
+Viestura prospekts 37 k-1
+Viestura prospekts 41
+Viestura prospekts 45
+Viestura prospekts 47
+Viestura prospekts 51
+Viestura prospekts 55
+Viestura prospekts 59
+Viestura prospekts 63
+Viestura prospekts 67
+Viestura prospekts 69
+Viestura prospekts 71
+Viestura prospekts 73
+Viestura prospekts 75
+Viestura prospekts 77
+Viestura prospekts 79
+Viestura prospekts 81
+Viestura prospekts 83
+Viestura prospekts 85
+Viestura prospekts 87
+Viestura prospekts 89
+Viestura prospekts 9
+Viestura prospekts 91
+Viestura prospekts 93
+
+==========ALPEX returned========
+Alekša iela 9
+Allažu iela 1
+Aptiekas iela 13
+Aptiekas iela 14
+Aptiekas iela 6
+Ceļinieku iela 18
+Ezermalas iela 19
+Ezermalas iela 27
+Lāpstu iela 15
+Limbažu iela 1 k-1
+Limbažu iela 2
+Limbažu iela 4 k-1
+Limbažu iela 4 k-2
+Ozolu iela 4
+Ozolu iela 5
+Ozolu iela 7
+Patversmes iela 1 k-1
+Patversmes iela 22 k-3
+Patversmes iela 22 k-4
+Patversmes iela 26
+Sarkandaugavas iela 26 k-1
+Sarkandaugavas iela 26 k-2
+Sarkandaugavas iela 26 k-3
+Sarkandaugavas iela 26 k-4
+Sarkandaugavas iela 26 k-6
+Sarkandaugavas iela 26 k-7
+Sarkandaugavas iela 26 k-9
+Patversmes iela 3 k-1
+Pededzes iela 4
+Sarkandaugavas iela 11
+Sarkandaugavas iela 13
+Sīmaņa iela 11 k-1
+Sīmaņa iela 11 k-2
+Sīmaņa iela 11 k-3
+Sliežu iela 27 k-1
+Sliežu iela 29 k-3
+Sliežu iela 29 k-4
+SARKANDAUGAVAS IELA 26 K-5
+Limbažu iela 11
+Sliežu iela 9A
+Sofijas iela 4
+Sofijas iela 6
+Tilta iela 11 k-1
+Tilta iela 11 k-2
+Tilta iela 24 k-1
+Tilta iela 5 k-1
+Tvaika iela 16
+Tvaika iela 16
+Viestura prospekts 23
+Viestura prospekts 35
+Viestura prospekts 37
+Viestura prospekts 45
+Viestura prospekts 51
+Viestura prospekts 55
+Viestura prospekts 59
+Viestura prospekts 63
+Viestura prospekts 77
+===================================== 17.10
+SARKANDAUGAVAS IELA 26 K-8
+Limbažu iela 9
+Viestura prospekts 15
+Alekša iela 8
+

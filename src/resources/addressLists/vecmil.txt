@@ -1,0 +1,390 @@
+Anitas iela 1
+Anitas iela 2
+Anitas iela 9
+Atlantijas iela 12
+Atlantijas iela 8
+Augusta Dombrovska iela 13 (1)
+Augusta Dombrovska iela 13 (2)
+Augusta Dombrovska iela 17
+Augusta Dombrovska iela 19
+Augusta Dombrovska iela 33
+Augusta Dombrovska iela 35
+Augusta Dombrovska iela 44 (1)
+Augusta Dombrovska iela 44 (2)
+Augusta Dombrovska iela 44 (3)
+Augusta Dombrovska iela 47
+Augusta Dombrovska iela 49
+Augusta Dombrovska iela 6
+Augusta Dombrovska iela 75
+Augusta Dombrovska iela 75 k-2
+Augusta Dombrovska iela 77
+Baltāsbaznīcas iela 21
+Baltāsbaznīcas iela 23
+Baltāsbaznīcas iela 31
+Baltāsbaznīcas iela 31 k-2
+Baltāsbaznīcas iela 33A
+Baltāsbaznīcas iela 34 (1)
+Baltāsbaznīcas iela 34 (2)
+Baltāsbaznīcas iela 35
+Baltāsbaznīcas iela 44
+Baltāsbaznīcas iela 46
+Edžiņa gatve 3
+Edžiņa gatve 5
+Edžiņa gatve 7
+Edžiņa gatve 9
+Emmas iela 1
+Emmas iela 10
+Emmas iela 10A
+Emmas iela 11(1)
+Emmas iela 11(2)
+Emmas iela 11(3)
+Emmas iela 12
+Emmas iela 12A
+Emmas iela 14
+Emmas iela 15
+Emmas iela 19
+Emmas iela 30
+Emmas iela 3A
+Emmas iela 5
+Emmas iela 6
+Emmas iela 7
+Emmas iela 7A
+Emmas iela 8
+Emmas iela 9
+Gaileņu iela 3
+Gaileņu iela 8
+Jaunciema 2. līnija 5A
+Jaunciema 2. šķērslīnija 2
+Jaunciema gatve 139
+Jaunciema gatve 141
+Jaunciema gatve 145
+Jaunciema gatve 147A
+Jaunciema gatve 149
+Jaunciema gatve 153
+Jaunciema gatve 163
+Jaunciema gatve 165
+Jaunciema gatve 167
+Jaunciema gatve 182
+Kalngales iela 1 (1)
+Kalngales iela 1 (2)
+Kalngales iela 11
+Kalngales iela 9
+Kāvu iela 12
+Kāvu iela 2
+Kāvu iela 4
+Kāvu iela 5
+Kāvu iela 8
+Kreimeņu iela 3
+Kreimeņu iela 5
+Kreimeņu iela 5A
+Kreimeņu iela 6
+Ledus iela 2                  Ziemeļblāzmas 53
+Ledus iela 4
+Martas Rinkas iela 1
+Martas Rinkas iela 1 k-1
+Martas Rinkas iela 1 k-2
+Meldru iela 10
+Meldru iela 12
+Meldru iela 14
+Meldru iela 16
+Meldru iela 18
+Meldru iela 19
+Meldru iela 2
+Meldru iela 20
+Meldru iela 22
+Meldru iela 24
+Meldru iela 26
+Meldru iela 4
+Meldru iela 4A (RNP darbnīca)
+Meldru iela 6
+Meldru iela 6 k-2
+Meldru iela 64
+Meldru iela 8
+Melīdas iela 1
+Melīdas iela 2
+Melīdas iela 3
+Melīdas iela 3 k-1
+Melīdas iela 3 k-2
+Melīdas iela 4
+Melīdas iela 6 k-1
+Melīdas iela 6 k-2
+Melīdas iela 6 k-3
+Mildas iela 11
+Mildas iela 4A
+Rīnūžu iela 11 (1)
+Rīnūžu iela 11 (2)
+Rīnūžu iela 15
+Rīnūžu iela 20
+Rīnūžu iela 22
+Rūpnīcas iela 1
+Rūpnīcas iela 11
+Rūpnīcas iela 12
+Rūpnīcas iela 13
+Rūpnīcas iela 14
+Rūpnīcas iela 16
+Rūpnīcas iela 3
+Rūpnīcas iela 4
+Rūpnīcas iela 5
+Rūpnīcas iela 6
+Rūpnīcas iela 7
+Rūpnīcas iela 8
+Rūpnīcas iela 9
+Skuju iela 1
+Skuju iela 10
+Skuju iela 12
+Skuju iela 18
+Skuju iela 2
+Skuju iela 5              Vecmīlgrāvja 1.līnija 33
+Skuju iela 8
+Sniega iela 2
+Sniega iela 2 k-2
+Sniega iela 2 k-3
+Sniega iela 3 k-2
+Sniega iela 3 k-4
+Staru iela 21                    Sniega 2 k-1
+Staru iela 22
+Stiebru iela 2
+Stiebru iela 3
+Stiebru iela 4
+Stiebru iela 7
+Stiebru iela 8
+Vanadziņa gatve 1
+Vanadziņa gatve 2
+Vanadziņa gatve 3
+Vanadziņa gatve 4
+Vanadziņa gatve 5
+Vanadziņa gatve 7
+Vecmīlgrāvja 1. līnija 26
+Vecmīlgrāvja 1. līnija 28
+Vecmīlgrāvja 1. līnija 32
+Vecmīlgrāvja 1. līnija 35
+Vecmīlgrāvja 1. līnija 37
+Vecmīlgrāvja 1. līnija 4
+Vecmīlgrāvja 1. līnija 47
+Vecmīlgrāvja 1. līnija 49
+Vecmīlgrāvja 1. līnija 52
+Vecmīlgrāvja 1. līnija 57
+Vecmīlgrāvja 1. līnija 8
+Vecmīlgrāvja 5. līnija 12
+Vecmīlgrāvja 5. līnija 9
+Vecmīlgrāvja 6. līnija 2
+Vecmīlgrāvja 6. līnija 4
+Vecmīlgrāvja iela 17 k-1
+Vecmīlgrāvja iela 17 k-2
+Vecmīlgrāvja iela 17 k-3
+Vecmīlgrāvja iela 5
+Vecmīlgrāvja iela 6 (1)
+Vecmīlgrāvja iela 6 (2)
+Vecmīlgrāvja iela 7
+Vecmīlgrāvja iela 8 (1)
+Vecmīlgrāvja iela 8 (2)
+Vecmīlgrāvja iela 9 k-1
+Vecmīlgrāvja iela 9 k-2
+Ziemeļblāzmas iela 42
+Ziemeļblāzmas iela 44
+Ziemeļblāzmas iela 46
+Ziemeļblāzmas iela 51
+Anitas iela 1
+Anitas iela 2
+Anitas iela 9
+Atlantijas iela 12
+Atlantijas iela 8
+Augusta Dombrovska iela 13 (1)
+Augusta Dombrovska iela 13 (2)
+Augusta Dombrovska iela 17
+Augusta Dombrovska iela 19
+Augusta Dombrovska iela 33
+Augusta Dombrovska iela 35
+Augusta Dombrovska iela 44 (1)
+Augusta Dombrovska iela 44 (2)
+Augusta Dombrovska iela 44 (3)
+Augusta Dombrovska iela 47
+Augusta Dombrovska iela 49
+Augusta Dombrovska iela 6
+Augusta Dombrovska iela 75
+Augusta Dombrovska iela 75 k-2
+Augusta Dombrovska iela 77
+Baltāsbaznīcas iela 21
+Baltāsbaznīcas iela 23
+Baltāsbaznīcas iela 31
+Baltāsbaznīcas iela 31 k-2
+Baltāsbaznīcas iela 33A
+Baltāsbaznīcas iela 34 (1)
+Baltāsbaznīcas iela 34 (2)
+Baltāsbaznīcas iela 35
+Baltāsbaznīcas iela 44
+Baltāsbaznīcas iela 46
+Edžiņa gatve 3
+Edžiņa gatve 5
+Edžiņa gatve 7
+Edžiņa gatve 9
+Emmas iela 1
+Emmas iela 10
+Emmas iela 10A
+Emmas iela 11(1)
+Emmas iela 11(2)
+Emmas iela 11(3)
+Emmas iela 12
+Emmas iela 12A
+Emmas iela 14
+Emmas iela 15
+Emmas iela 19
+Emmas iela 30
+Emmas iela 3A
+Emmas iela 5
+Emmas iela 6
+Emmas iela 7
+Emmas iela 7A
+Emmas iela 8
+Emmas iela 9
+Ezera iela 1 (Gāzes katlu māja)
+Ezera iela 11 (Gāzes katlu māja)
+Ezera iela 21 (Gāzes katlu māja)
+Ezera iela 9 (Gāzes katlu māja)
+Gaileņu iela 3
+Gaileņu iela 8
+Jaunciema 2. līnija 5A
+Jaunciema 2. šķērslīnija 2
+Jaunciema gatve 139
+Jaunciema gatve 141
+Jaunciema gatve 145
+Jaunciema gatve 147A
+Jaunciema gatve 149
+Jaunciema gatve 153
+Jaunciema gatve 163
+Jaunciema gatve 165
+Jaunciema gatve 167
+Jaunciema gatve 182
+Kalngales iela 1 (1)
+Kalngales iela 1 (2)
+Kalngales iela 11
+Kalngales iela 9
+Kāvu iela 12
+Kāvu iela 2
+Kāvu iela 4
+Kāvu iela 5
+Kāvu iela 8
+Kreimeņu iela 3
+Kreimeņu iela 5
+Kreimeņu iela 5A
+Kreimeņu iela 6
+Ledus iela 2                  Ziemeļblāzmas 53
+Ledus iela 4
+Lēdurgas iela 7
+Lēdurgas iela 9
+Lēdurgas iela 16 (Gāzes katlumāja)
+Martas Rinkas iela 1
+Martas Rinkas iela 1 k-1
+Martas Rinkas iela 1 k-2
+Martas Rinkas iela 4
+Meldru iela 10
+Meldru iela 12
+Meldru iela 14
+Meldru iela 16
+Meldru iela 18
+Meldru iela 19
+Meldru iela 2
+Meldru iela 20
+Meldru iela 22
+Meldru iela 24
+Meldru iela 26
+Meldru iela 4
+Meldru iela 4A (RNP darbnīca)
+Meldru iela 6
+Meldru iela 6 k-2
+Meldru iela 64
+Meldru iela 8
+Melīdas iela 1
+Melīdas iela 2
+Melīdas iela 3
+Melīdas iela 3 k-1
+Melīdas iela 3 k-2
+Melīdas iela 4
+Melīdas iela 6 k-1
+Melīdas iela 6 k-2
+Melīdas iela 6 k-3
+Mildas iela 11
+Mildas iela 4A
+Mores iela 3
+Mores iela 5
+Mores iela 7
+Ostas prospekts 4
+Rīnūžu iela 11 (1)
+Rīnūžu iela 11 (2)
+Rīnūžu iela 15
+Rīnūžu iela 20
+Rīnūžu iela 22
+Rūpnīcas iela 1
+Rūpnīcas iela 11
+Rūpnīcas iela 12
+Rūpnīcas iela 13
+Rūpnīcas iela 14
+Rūpnīcas iela 16
+Rūpnīcas iela 3
+Rūpnīcas iela 4
+Rūpnīcas iela 5
+Rūpnīcas iela 6
+Rūpnīcas iela 7
+Rūpnīcas iela 8
+Rūpnīcas iela 9
+Skuju iela 1
+Skuju iela 10
+Skuju iela 12
+Skuju iela 18
+Skuju iela 2
+Skuju iela 5              Vecmīlgrāvja 1.līnija 33
+Skuju iela 8
+Sniega iela 2
+Sniega iela 2 k-2
+Sniega iela 2 k-3
+Sniega iela 3 k-2
+Sniega iela 3 k-4
+Staru iela 21                    Sniega 2 k-1
+Staru iela 22
+Stiebru iela 2
+Stiebru iela 3
+Stiebru iela 4
+Stiebru iela 7
+Stiebru iela 8
+Vanadziņa gatve 1
+Vanadziņa gatve 2
+Vanadziņa gatve 3
+Vanadziņa gatve 4
+Vanadziņa gatve 5
+Vanadziņa gatve 7
+Vecmīlgrāvja 1. līnija 26
+Vecmīlgrāvja 1. līnija 28
+Vecmīlgrāvja 1. līnija 32
+Vecmīlgrāvja 1. līnija 35
+Vecmīlgrāvja 1. līnija 37
+Vecmīlgrāvja 1. līnija 4
+Vecmīlgrāvja 1. līnija 47
+Vecmīlgrāvja 1. līnija 49
+Vecmīlgrāvja 1. līnija 52
+Vecmīlgrāvja 1. līnija 57
+Vecmīlgrāvja 1. līnija 8
+Vecmīlgrāvja 5. līnija 12
+Vecmīlgrāvja 5. līnija 9
+Vecmīlgrāvja 6. līnija 2
+Vecmīlgrāvja 6. līnija 4
+Vecmīlgrāvja iela 17 k-1
+Vecmīlgrāvja iela 17 k-2
+Vecmīlgrāvja iela 17 k-3
+Vecmīlgrāvja iela 5
+Vecmīlgrāvja iela 6 (1)
+Vecmīlgrāvja iela 6 (2)
+Vecmīlgrāvja iela 7
+Vecmīlgrāvja iela 8 (1)
+Vecmīlgrāvja iela 8 (2)
+Vecmīlgrāvja iela 9 k-1
+Vecmīlgrāvja iela 9 k-2
+Viestura prospekts 14
+Viestura prospekts 16
+Viestura prospekts 16A   Sūkņu stacuja
+Viestura prospekts 20
+Viestura prospekts 22
+Viestura prospekts 24
+Ziemeļblāzmas iela 42
+Ziemeļblāzmas iela 44
+Ziemeļblāzmas iela 46
+Ziemeļblāzmas iela 51
