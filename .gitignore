@@ -1,6 +1,6 @@
 /node_modules
 package-lock.json
-/log/app.log
+/log/app.logs
 .env
 draft.js
 db.json
