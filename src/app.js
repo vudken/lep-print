@@ -63,7 +63,4 @@ app.disable('x-powered-by');
 
 app.listen(port, () => {
     logger.debug(`Server is up on port ${port}`);
-    setTimeout(() => {
-        throw new Error('Test ERROR');
-    }, 5000);
 });
