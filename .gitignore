@@ -8,3 +8,4 @@ lego.js
 run.bat
 logs/app.log
 public
+logs/err.log

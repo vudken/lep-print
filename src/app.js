@@ -5,8 +5,12 @@ import express from 'express';
 import { fileURLToPath } from 'url';
 import config from '../config.js';
 import router from './routes.js';
-import { logger } from '../logs/logger.js';
+import { logErr, logger } from '../logs/logger.js';
 import rateLimit from 'express-rate-limit';
+
+process.on('uncaughtException', async function (err) {
+    logErr.error(err);
+});
 
 const limiter = rateLimit({
     windowMs: 15 * 60 * 1000,
@@ -59,4 +63,7 @@ app.disable('x-powered-by');
 
 app.listen(port, () => {
     logger.debug(`Server is up on port ${port}`);
+    setTimeout(() => {
+        throw new Error('Test ERROR');
+    }, 5000);
 });
