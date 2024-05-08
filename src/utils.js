@@ -46,7 +46,7 @@ export const isTaskValid = (task) => {
     return task !== null && task !== undefined && task !== -1;
 };
 
-export const sortAlpabetically = (tasks) => {
+export const sortAlphabetically = (tasks) => {
     return tasks.sort((a, b) => {
         let textA = a.address.toUpperCase();
         let textB = b.address.toUpperCase();

@@ -23,20 +23,24 @@ class FleetcompleteAPIClient {
         return await this.axiosRateLimitInstance.get(`${this.url}/getData?id=${taskId}${this.parameters}`);
     }
 
-    async getTasksByEmail(email = crew.getEmailByChatId(0), obj = { includeCompleted: false }) {
+    async getTasksByEmail(email = crew.getEmailByChatId(0), obj = { includeCompleted: false, includeMaintenance: false }) {
         const date = new Date();
         const begTimestamp = date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate();
         const res = await axios.get(`${this.url}/get?begTimestamp=${begTimestamp}&driver=${email}${this.parameters}`);
-        const tasks = res.data.response.tasks;
+        let tasks = res.data.response.tasks;
 
-        return isEmpty(tasks)
-            ? []
-            : tasks.___xmlNodeValues
-                .map(node => node = new Task(node.task, crew))
-                .filter(task => obj.includeCompleted
-                    ? task
-                    : task.status != 'DONE' && !isMaintenance(task.name)
-                );
+        if (isEmpty(tasks)) {
+            return [];
+        } else {
+            tasks = tasks.___xmlNodeValues.map(obj => obj.task);
+            tasks = tasks.filter(task => task !== undefined);
+
+            if (!obj.includeCompleted) tasks = tasks.filter(task => task.status != 'DONE');
+            if (!obj.includeMaintenance) tasks = tasks.filter(task => !isMaintenance(task.name));
+
+            tasks = tasks.map(task => task = new Task(task, crew));
+            return tasks;
+        }
     }
 
     async getAllTasks() {

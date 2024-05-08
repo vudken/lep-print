@@ -1,4 +1,4 @@
-import { sortAlpabetically, getTaskComment } from '../utils.js';
+import { sortAlphabetically, getTaskComment } from '../utils.js';
 import FleetcompleteAPIClient from '../services/Fleetcomplete.api.js';
 
 const fac = new FleetcompleteAPIClient();
@@ -13,7 +13,7 @@ const getNoTasksHtml = () => {
 };
 
 export const getTasksHtml = async (email) => {
-    const tasks = sortAlpabetically(await fac.getTasksByEmail(email));
+    const tasks = sortAlphabetically(await fac.getTasksByEmail(email));
 
     let i = 1;
     let html = '';
