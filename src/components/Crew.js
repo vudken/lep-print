@@ -26,7 +26,7 @@ class Crew {
             17: { name: 'LEP brigāde 1', email: env.LEP_BRIGADE_1, chatId: undefined, area: 'lb1' },
             18: { name: 'LEP brigāde 2', email: env.LEP_BRIGADE_2, chatId: undefined, area: 'lb2' },
             19: { name: 'LEP brigāde 3', email: env.LEP_BRIGADE_3, chatId: undefined, area: 'lb3' },
-            20: { name: 'LEP elektriķi', email: env.LEP_ELEKTRIKI, chatId: undefined, area: 'elektriki' },
+            20: { name: 'LEP elektriķi', email: env.LEP_ELEKTRIKI, chatId: undefined, area: 'elek' },
         };
     }
 
