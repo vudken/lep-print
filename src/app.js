@@ -23,6 +23,7 @@ const __dirname = path.dirname(__filename);
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
+app.set('trust proxy', 1);
 
 app.use(limiter);
 app.use(helmet());
