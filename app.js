@@ -3,9 +3,9 @@ import helmet from 'helmet';
 import hpp from 'hpp';
 import express from 'express';
 import { fileURLToPath } from 'url';
-import config from '../config.js';
-import router from './routes.js';
-import { logErr, logger } from '../logs/logger.js';
+import config from './config.js';
+import router from './src/routes.js';
+import { logErr, logger } from './logs/logger.js';
 import rateLimit from 'express-rate-limit';
 
 process.on('uncaughtException', async function (err) {
@@ -21,11 +21,12 @@ const port = config.server.port;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, 'src/views'));
 app.set('view engine', 'ejs');
 app.set('trust proxy', 1);
 
 app.use(limiter);
+app.use('/assets', express.static(path.join(__dirname, 'src/assets')));
 app.use(helmet());
 app.use(
     helmet.contentSecurityPolicy({
