@@ -37,7 +37,7 @@ app.use(
                 "https://cdn.jsdelivr.net/npm/sweetalert2@11",
                 "https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js",
                 "https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js",
-                "unsafe-inline",
+                "'unsafe-inline'",
             ],
             styleSrc: [
                 "'self'",
